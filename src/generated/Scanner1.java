@@ -1,4 +1,4 @@
-// Generated from C:/Users/rdann/IdeaProjects/Test\Scanner1.g4 by ANTLR 4.8
+// Generated from C:/Users/rdann/IdeaProjects/ParserManual\Scanner1.g4 by ANTLR 4.8
 package generated;
 import org.antlr.v4.runtime.Lexer;
 import org.antlr.v4.runtime.CharStream;
